@@ -48,5 +48,7 @@ Se possivel forneça as informações para diferentes plataformas, exemplo windo
 ## Meta 
 Nome do criador - [@Twiter_do_criador](https://Twiter.com/usuario)- email@gmail.com 
 Distribuido sobre a licença. Veja `LICENÇA` para mais informaçãoes.
+
 [site_do_projeto_do_github_ou_outro]
+
 [perfil_do_github] 
